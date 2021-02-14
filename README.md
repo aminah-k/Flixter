@@ -26,7 +26,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 <img src="https://github.com/aminah-k/Flixter/blob/master/walkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+As you can see, I had challenges getting my emulator to display a working screen. I believe I correctly designed the screen with the imageViews and textViews and my code also compiled so I am struggling to find the error I made while programming. I referenced the Project 1 Tips Guide and tried to troubleshoot on my own while looking into possible errors I may have made that would hinder a JSON response but I'm still unsure as to whre I went wrong.
 
 ### Open-source libraries used
 
